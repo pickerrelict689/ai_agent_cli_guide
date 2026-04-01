@@ -952,6 +952,7 @@ claude --agent code-reviewer        # Use specific agent
 claude -w feature-branch            # Start session in isolated git worktree
 claude --add-dir ../shared-lib      # Add extra directories
 claude --debug                      # Debug logging
+claude --dangerously-skip-permissions  # Auto-accept all permissions (dangerous!)
 claude -r                           # Resume last session (short for --resume)
 claude -c                           # Select and resume a previous session (interactive picker)
 ```
