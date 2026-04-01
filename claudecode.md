@@ -957,7 +957,7 @@ claude -r                           # Resume last session (short for --resume)
 claude -c                           # Select and resume a previous session (interactive picker)
 ```
 
-### ကီးဘုတ် shortcut များ
+### keyboard shortcut များ
 
 | shortcut  | လုပ်ဆောင်ချက် |
 |----------|--------|
