@@ -1,0 +1,7 @@
+# AI Agent Guide
+
+Claude Code နှင့် Codex CLI တို့တွင် မည်သည့် function များပါဝင်ပြီး မည်ကဲ့သို့ အသုံးချ၍ ရနိုင်သည် ကို သိရိုစေရန် ဖော်ပြထားခြင်းဖြစ်သည်။
+
+- [Claude Code](./claudecode.md)
+- [Codex](./codex.md)
+- [Open Code](./opencode.md)
