@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(www.alibabacloud.com)",
+      "WebFetch(help.aliyun.com)",
+      "WebFetch(github.com)",
+      "WebFetch(medium.com)",
+      "WebFetch(juejin.cn)"
+    ]
+  },
+  "$version": 3
+}
